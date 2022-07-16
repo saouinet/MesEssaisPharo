@@ -1,0 +1,2 @@
+# MesEssaisPharo
+some pharo experiments
